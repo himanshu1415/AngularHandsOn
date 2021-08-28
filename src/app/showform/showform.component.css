@@ -1,0 +1,20 @@
+.ng-invalid.ng-touched:not(form) {
+    border: 1px solid red;
+  }
+
+.required
+{
+  color: red;
+}
+
+.box
+{
+  border-radius: 10px;
+  background-color: #E6E6FA;
+  box-shadow: grey 1px;
+}
+
+label
+{
+  font-weight:550;
+}
